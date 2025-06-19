@@ -59,6 +59,7 @@ st.markdown('<div class="main">', unsafe_allow_html=True)
 # Tambahan nama kamu
 st.markdown("""
 <h2 style='text-align: center; margin-bottom: 0;'>Farkhan Al Fanani Ruwanto Putro</h2>
+<h1 style='text-align: center; margin-bottom: 0;'>A11.2022.14165</h1>
 <hr style='margin-top: 0; margin-bottom: 2rem;'>
 """, unsafe_allow_html=True)
 
