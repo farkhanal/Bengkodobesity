@@ -55,10 +55,18 @@ st.markdown(
 )
 
 st.markdown('<div class="main">', unsafe_allow_html=True)
+
+# Tambahan nama kamu
+st.markdown("""
+<h2 style='text-align: center; margin-bottom: 0;'>Farkhan Al Fanani Ruwanto Putro</h2>
+<hr style='margin-top: 0; margin-bottom: 2rem;'>
+""", unsafe_allow_html=True)
+
 st.title("Prediksi Tingkat Obesitas")
 st.write(
     "Masukkan data diri dan kebiasaan Anda dengan lengkap untuk memprediksi tingkat obesitas berdasarkan model terpercaya."
 )
+
 
 st.subheader("Informasi Pribadi dan Kebiasaan")
 
